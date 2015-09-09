@@ -15,6 +15,13 @@ public class Calculate {
 	public double div(double x, double y) {
 		return x / y;
 	}
+	
+	
+	public void doNothing(){
+		//Does nothing
+		
+	}
+	
 //Another Comment
 
 }
